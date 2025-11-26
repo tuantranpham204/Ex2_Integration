@@ -1,0 +1,10 @@
+D:\Classes\7th Term\Integration\reg2\Demo\Ex2\Ex2\bin\Debug\Ex2.exe.config
+D:\Classes\7th Term\Integration\reg2\Demo\Ex2\Ex2\bin\Debug\Ex2.exe
+D:\Classes\7th Term\Integration\reg2\Demo\Ex2\Ex2\bin\Debug\Ex2.pdb
+D:\Classes\7th Term\Integration\reg2\Demo\Ex2\Ex2\obj\Debug\Ex2.csproj.AssemblyReference.cache
+D:\Classes\7th Term\Integration\reg2\Demo\Ex2\Ex2\obj\Debug\Ex2.Properties.Resources.resources
+D:\Classes\7th Term\Integration\reg2\Demo\Ex2\Ex2\obj\Debug\Ex2.csproj.GenerateResource.cache
+D:\Classes\7th Term\Integration\reg2\Demo\Ex2\Ex2\obj\Debug\Ex2.csproj.CoreCompileInputs.cache
+D:\Classes\7th Term\Integration\reg2\Demo\Ex2\Ex2\obj\Debug\Ex2.exe
+D:\Classes\7th Term\Integration\reg2\Demo\Ex2\Ex2\obj\Debug\Ex2.pdb
+D:\Classes\7th Term\Integration\reg2\Demo\Ex2\Ex2\obj\Debug\Ex2.Form1.resources
